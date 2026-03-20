@@ -1,30 +1,77 @@
 # Zakariya Sharif
 
-**Crypto Educator | Web3 Content Creator | On-chain Analyst**
+**Crypto Educator | AI & Web3 Builder | On-Chain Analyst**
 
-Founder of **Zakariya Academy**, I am dedicated to empowering the Somali and global communities with clear, practical crypto education. My mission is to make comprehensive crypto knowledge accessible to everyone, fostering financial freedom through understanding.
+Founder of **Zakariya Academy**, I build and scale systems that combine crypto education, AI automation, and on-chain intelligence to help people understand markets and achieve financial freedom.
 
-## About Me
+---
 
-With a robust 100K+ community across YouTube, Telegram, and X, I specialize in teaching **Crypto & DeFi Fundamentals** in both Somali and English. My passion lies in **on-chain analysis, trading psychology, and security**, areas where I provide deep insights and actionable knowledge. Beyond market analysis, I am actively involved in **building the first Somali-language Web3 ecosystem**, driven by the belief that "You only lose if you sell."
+## 🚀 About Me
 
-## Expertise & Tools
+I lead a growing 100K+ community across YouTube, Telegram, and X, delivering practical crypto education in Somali and English.
 
-*   **On-Chain Analysis**: Proficient with Nansen, Arkham, Breadcrumbs, SpotOnChain.
-*   **Crypto Trading & DeFi**: Experienced across platforms like Binance, Bybit, Hyperliquid, and the Solana ecosystem.
-*   **Content Creation**: Skilled in producing engaging content for YouTube, Medium, Telegram, utilizing tools such as Canva and OBS.
-*   **Technical Skills**: Foundational understanding of Python, Markdown, WordPress, and Tutor LMS.
+My work focuses on bridging the gap between **education and execution** by not only teaching crypto concepts, but also building real tools and systems that apply them.
 
-## Key Initiatives
+Core areas:
+- On-chain analysis & smart money tracking  
+- Trading psychology & market structure  
+- Crypto security & self-custody  
+- AI-powered automation for crypto workflows  
 
-*   **Zakariya Academy**: Providing bilingual crypto courses and educational resources at [zakariyaacademy.com](https://zakariyaacademy.com ).
-*   **Smart Money Flow Reports**: Delivering daily insights into whale and institutional movements.
-*   **Crypto Content Hub**: Over 500 educational videos dedicated to bringing Web3 knowledge to the Somali community.
+---
 
-## Connect With Me
+## ⚙️ What I Build
 
-*   [LinkedIn](https://www.linkedin.com/in/zakariyasharif/ )
-*   [Twitter/X](https://x.com/zakariyasharif9 )
-*   [YouTube](https://youtube.com/@ZakariyaAcademy1 )
-*   [Telegram](https://t.me/ZakariyaAcademy1 )
-*   [Website](https://zakariyaacademy.com )
+- 🤖 Telegram bots for crypto signals and automation  
+- 🧠 AI-powered tools for market analysis (Gemini API integrations)  
+- 📊 Crypto screeners and smart money tracking systems  
+- 🌍 Scalable education platforms for Somali & global audiences  
+
+---
+
+## 🧠 Expertise & Tools
+
+**On-Chain Analysis**  
+Nansen, Arkham, Breadcrumbs, SpotOnChain  
+
+**Trading & DeFi**  
+Binance, Bybit, Hyperliquid, Solana ecosystem  
+
+**Content & Systems**  
+YouTube, Telegram, Medium, Canva, OBS  
+
+**Technical Stack**  
+Node.js, Python, APIs, WordPress, Tutor LMS  
+
+---
+
+## 🔥 Key Projects & Initiatives
+
+### Zakariya Academy  
+Bilingual crypto education platform  
+🔗 https://zakariyaacademy.com  
+
+### Crypto Signal & Screener Systems  
+AI-powered bots that generate real-time crypto insights and automate market analysis  
+
+### Smart Money Flow Reports  
+Daily tracking of whale and institutional activity  
+
+### Content Ecosystem  
+500+ educational videos focused on Web3, trading, and financial literacy  
+
+---
+
+## 🎯 Mission
+
+To build the leading Somali-language Web3 ecosystem and empower individuals globally through education, tools, and intelligent systems.
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/zakariyasharif/  
+Twitter/X: https://x.com/zakariyasharif9  
+YouTube: https://youtube.com/@ZakariyaAcademy1  
+Telegram: https://t.me/ZakariyaAcademy1  
+Website: https://zakariyaacademy.com  
